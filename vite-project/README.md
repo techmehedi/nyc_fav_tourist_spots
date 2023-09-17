@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<iframe src='https://imgur.com/a/5qrvxsZ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/5qrvxsZ" data-context="false" ><a href="//imgur.com/a/5qrvxsZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
 <!-- Recommended tools:
