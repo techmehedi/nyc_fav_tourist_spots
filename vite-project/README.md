@@ -26,8 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5qrvxsZ" data-context="false" ><a href="//imgur.com/a/5qrvxsZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<!-- Replace this with whatever GIF tool you used! -->
+https://imgur.com/a/5qrvxsZ
+
 GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
