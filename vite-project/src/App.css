@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+* {
+  font-family: 'Lato', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: rgb(251, 216, 216);
+}
+
+.headimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.nyclogo {
+  height: 200px;
+  width: 200px;
+}
+
+.places {
+  width: 33%;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.img {
+  width: 80%;
+  height: 300px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.mainpage {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  border-radius: 999px;
+  padding: 14px 50px;
+  border-width: 0;
+  font-weight: bold;
+  cursor: not-allowed;
+  margin-top: 20px;
+}
